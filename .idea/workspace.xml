@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="369bcbfc-811b-4015-8c7b-ea0c680409d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j6bMqilfbqEDdzM12vNPrxpYra" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.LogInTest.loginRegistratedPositiveTest">
+    <configuration name="LogInTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.test.tests.LogInTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LogInTest.loginRegistratedPositiveTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.test.tests.LogInTest.loginRegistratedPositiveTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RegistrationForm" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.test.RegistrationForm&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RegistrationForm.negativeTestRegistrationPasswordDontMatch" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.test.RegistrationForm.negativeTestRegistrationPasswordDontMatch&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RegistrationForm.testRegistration" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.test.RegistrationForm.testRegistration&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LogInTest.loginRegistratedPositiveTest" />
+        <item itemvalue="Gradle.LogInTest" />
+        <item itemvalue="Gradle.RegistrationForm.testRegistration" />
+        <item itemvalue="Gradle.RegistrationForm.negativeTestRegistrationPasswordDontMatch" />
+        <item itemvalue="Gradle.RegistrationForm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="369bcbfc-811b-4015-8c7b-ea0c680409d7" name="Default Changelist" comment="" />
+      <created>1603127445445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603127445445</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="94" key="#Project_Structure" timestamp="1603127614354">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Project_Structure/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1603127614354" />
+    <state x="2456" y="199" width="388" height="607" key="#com.intellij.ide.util.MemberChooser" timestamp="1604156548079">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="429" y="159" width="388" height="607" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1603820132584" />
+    <state x="2456" y="199" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604156548079" />
+    <state x="2516" y="224" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1604171598726">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="477" y="179" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1603819674642" />
+    <state x="2516" y="224" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604171598726" />
+    <state x="470" y="362" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604175005849">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="362" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1604175005849" />
+    <state x="2681" y="409" width="397" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604074473481">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2681" y="409" width="397" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604074473481" />
+    <state x="2319" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604091770259">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2319" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604091770259" />
+    <state x="2610" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604091729343">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2610" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604091729343" />
+    <state x="507" y="159" key="FileChooserDialogImpl" timestamp="1604248542066">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="507" y="159" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248542066" />
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1604248552104">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248552104" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604096742942" />
+    <state width="1493" height="272" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604175940391" />
+    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1604248552103">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248552103" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604096742942" />
+    <state width="1493" height="272" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604175940391" />
+    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1604248552102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248552102" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604096742942" />
+    <state width="1493" height="272" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604175940391" />
+    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1604248552103">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248552103" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604096742942" />
+    <state width="1493" height="272" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604175940391" />
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom" timestamp="1604248552105">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248552105" />
+    <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604089238267" />
+    <state width="1877" height="354" key="GridCell.Tab.1.center" timestamp="1604248552104">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248552104" />
+    <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604089238266" />
+    <state width="1877" height="354" key="GridCell.Tab.1.left" timestamp="1604248552104">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248552104" />
+    <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604089238266" />
+    <state width="1877" height="354" key="GridCell.Tab.1.right" timestamp="1604248552105">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604248552105" />
+    <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604089238266" />
+    <state x="2606" y="138" width="548" height="831" key="RefactorJ.IntroduceParameterObject" timestamp="1604091074413">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="549" y="110" width="438" height="668" key="RefactorJ.IntroduceParameterObject/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1603820055774" />
+    <state x="2606" y="138" width="548" height="831" key="RefactorJ.IntroduceParameterObject/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604091074413" />
+    <state x="2660" y="463" key="ReplaceDuplicatesPrompt" timestamp="1604172047221">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="592" y="370" key="ReplaceDuplicatesPrompt/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1603131694891" />
+    <state x="2660" y="463" key="ReplaceDuplicatesPrompt/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604172047221" />
+    <state x="2711" y="496" width="540" height="483" key="extract.method.dialog" timestamp="1604172035173">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="499" y="195" width="538" height="482" key="extract.method.dialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1603818862457" />
+    <state x="2711" y="496" width="540" height="483" key="extract.method.dialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604172035173" />
+  </component>
+</project>
